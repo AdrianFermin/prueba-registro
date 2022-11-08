@@ -12,7 +12,7 @@
 <body>
     <form method="POST">
         <h1>Registrar Usuario</h1>
-        <input type="text" name="nombre" placeholder="Nombre Completo">
+        <input type="text" name="name" placeholder="Nombre Completo">
         <input type="email" name="email" placeholder="Email">
         <input type="submit" name="register" value="Registrar">
     </form>
